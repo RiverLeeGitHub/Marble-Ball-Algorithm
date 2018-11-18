@@ -10,15 +10,15 @@ Simulate a marble ball bouncing in an irregular connected region of a 2D image a
       ![](https://github.com/RiverLeeGitHub/Marble-Ball-Algorithm/blob/master/Demonstration/img.png?raw=true)
 
 
-2. Initiate a marble (in green dot), then let it bounce in the domain. The red dots represent the recorded positions in equal intervals of time.
+2. Initiate a marble (in green dot), then let it bounce in the domain. Red dots represent the recorded positions in equal intervals of time.
 
       ![](https://github.com/RiverLeeGitHub/Marble-Ball-Algorithm/blob/master/Demonstration/img_track.png?raw=true)
 
-3. Scenograph of these positions with adding a time dimension.
+3. Scenograph of these positions with adding a time dimension. Green dots represent the average positions of recorded positions in a fixed time interval. Blue stars represent the cluster centers of green dots via Mean Shift.
 
       ![](https://github.com/RiverLeeGitHub/Marble-Ball-Algorithm/blob/master/Demonstration/img_sceno.png?raw=true)
 
-4. Looked from the top. The blue stars represent the cluster centers via Mean Shift.
+4. Looked from the top.
 
       ![](https://github.com/RiverLeeGitHub/Marble-Ball-Algorithm/blob/master/Demonstration/img_top.png?raw=true)
 
