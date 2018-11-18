@@ -1,4 +1,4 @@
-# Marble-Ball-Algorithm
+# Marble Ball Algorithm
 
 ## Introduction
 Simulate a marble ball bouncing in an irregular connected region of a 2D image and sampled the positions of the ball in equal intervals of time. In this way, a time dimension can be added to the static image, combined with clustering methods, to finally divide the sub-regions of the irregular connected region. 
